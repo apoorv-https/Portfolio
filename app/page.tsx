@@ -142,7 +142,7 @@ export default function Home() {
               </div>
 
               <p className="font-mono text-xs md:text-sm dark:text-zinc-500 text-zinc-500">
-                · i obsess over details most people skip.
+                · if you know me today, you don’t know me tomorrow. i grow daily.
               </p>
 
               <div className="flex items-center gap-3 flex-wrap">
