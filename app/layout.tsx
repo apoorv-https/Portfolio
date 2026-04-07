@@ -4,27 +4,27 @@ import "../styles/globals.css";
 export const metadata: Metadata = {
   title: "Apoorv | Portfolio",
   description: "AI Engineer. cs @ gl bajaj · i build complete products end-to-end.",
-  metadataBase: new URL("https://apoorv.is-a.dev"), // ← replace with your actual URL
+  metadataBase: new URL("https://apoorv.is-a.dev"),
   icons: {
     icon: [
-      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
-      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
     ],
     apple: [
-      { url: "/apple-icon.png", sizes: "180x180", type: "image/png" },
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
     ],
   },
   openGraph: {
     title: "Apoorv | Portfolio",
     description: "AI Engineer. · i obsess over details most people skip.",
-    url: "https://apoorv.is-a.dev", // ← same URL here
-    images: [{ url: "/og-image-v2.png", width: 1200, height: 630, alt: "Apoorv — AI Engineer" }],
+    url: "https://apoorv.is-a.dev",
+    images: [{ url: "/avatar.png", width: 1200, height: 630, alt: "Apoorv — AI Engineer" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Apoorv | Portfolio",
     description: "AI Engineer. · i obsess over details most people skip.",
-    images: ["/og-image-v2.png"],
+    images: ["/avatar.png"],
   },
 };
 
