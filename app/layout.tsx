@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     title: "Apoorv | Portfolio",
     description: "AI Engineer. · i obsess over details most people skip.",
     url: "https://apoorv.is-a.dev",
-    images: [{ url: "/avatar.png", width: 1200, height: 630, alt: "Apoorv — AI Engineer" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Apoorv — AI Engineer" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Apoorv | Portfolio",
     description: "AI Engineer. · i obsess over details most people skip.",
-    images: ["/avatar.png"],
+    images: ["/og-image.png"],
   },
 };
 
