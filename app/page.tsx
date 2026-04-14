@@ -21,6 +21,8 @@ const skills = {
 const socials = [
   { l: "github", h: "https://github.com/apoorv-https" },
   { l: "linkedin", h: "https://www.linkedin.com/in/apoorv-tiwari-966479324/" },
+  { l: "leetcode", h: "https://leetcode.com/u/apoorv__tiwari/" },
+  { l: "codeforces", h: "https://codeforces.com/profile/apoorv_tiwari" },
   { l: "email", h: "mailto:k.apoorvtiwari@gmail.com" },
 ];
 
