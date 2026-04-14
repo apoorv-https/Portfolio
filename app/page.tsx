@@ -11,6 +11,7 @@ import VanGoghQuote from "@/components/VanGoghQuote";
 import { projects, type Project } from "@/lib/projects";
 
 const skills = {
+  "ai / ml": ["Machine Learning", "Deep Learning", "NLP"],
   programming: ["C", "C++", "JavaScript", "Python", "Data Structures", "Algorithms", "SQL"],
   frameworks: ["FastAPI", "LangChain", "LangGraph", "Streamlit", "Pandas", "NumPy", "Express Js", "React", "Next js"],
   databases: ["MySQL", "MongoDB"],
@@ -304,7 +305,7 @@ export default function Home() {
             <span className="hidden md:inline dark:text-zinc-600 text-zinc-300 text-xs">·</span>
             <span className="font-mono text-xs dark:text-zinc-300 text-zinc-700">
               <span className="dark:text-d-accent text-l-accent mr-2">→</span>
-              Rust · Web3 ecosystem
+              AI agents
             </span>
           </div>
         </div>
